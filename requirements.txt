@@ -1,4 +1,4 @@
 streamlit
-moviepy>=2.0.0
+moviepy
 yt-dlp>=2025.01.01
 numpy
