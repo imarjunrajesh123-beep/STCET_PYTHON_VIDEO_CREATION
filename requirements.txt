@@ -1,4 +1,7 @@
 streamlit
-moviepy
-yt-dlp>=2025.01.01
-numpy
+PyPDF2
+gTTS
+deep-translator
+audio-recorder-streamlit
+SpeechRecognition
+pydub
