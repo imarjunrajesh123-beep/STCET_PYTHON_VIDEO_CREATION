@@ -1,10 +1,4 @@
-streamlit>=1.30.0
-PyPDF2
-gTTS
-deep-translator
-audio-recorder-streamlit
-SpeechRecognition
-pydub
+
 import streamlit as st
 import PyPDF2
 from gtts import gTTS
